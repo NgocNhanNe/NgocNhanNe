@@ -1,6 +1,6 @@
 ### Hi, I'm Ocean 👋
 
-I'm Ocean a Software Engineer with more than 2 years of experience. Experienced both in Front-end and Back-end technologies.
+I'm Ocean a Software Engineer with about 3 years of working experience. Experienced both in Front-end and Back-end technologies.
 
 #### Top Technologies
 
